@@ -1,0 +1,292 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 29299,
+      "max": [
+        182.0552215576172,
+        0.03391300141811371,
+        562.4951171875
+      ],
+      "min": [
+        -470.0894775390625,
+        -130.8552703857422,
+        -176.78839111328125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 351588,
+      "componentType": 5126,
+      "count": 29299,
+      "max": [
+        0.999331533908844,
+        0.9830470681190491,
+        0.9999116659164429
+      ],
+      "min": [
+        -0.99992835521698,
+        -0.999995768070221,
+        -0.9987275004386902
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 29299,
+      "max": [
+        0.9989659786224365,
+        0.7882189750671387
+      ],
+      "min": [
+        0.007445000112056732,
+        0.0004130000015720725
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 166017,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 703176,
+      "componentType": 5126,
+      "count": 18818,
+      "max": [
+        76.98057556152344,
+        -13.933216094970703,
+        576.2685546875
+      ],
+      "min": [
+        -465.0987243652344,
+        -141.66770935058594,
+        -108.95673370361328
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 928992,
+      "componentType": 5126,
+      "count": 18818,
+      "max": [
+        0.9993305802345276,
+        0.9968738555908203,
+        0.9984289407730103
+      ],
+      "min": [
+        -0.9983985424041748,
+        -0.9999998807907104,
+        -0.9988974928855896
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 234392,
+      "componentType": 5126,
+      "count": 18818,
+      "max": [
+        0.999966025352478,
+        0.7642099857330322
+      ],
+      "min": [
+        5.500000042957254e-05,
+        0.00021300000662449747
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 664068,
+      "componentType": 5125,
+      "count": 106149,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "GNS Science (https://sketchfab.com/gns.science)",
+      "license": "CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/debris-flow-arateka-stream-tauranga-bfa26a17eea0470cbfe99be3b6d25753",
+      "title": "Debris flow – Arateka Stream, Tauranga"
+    },
+    "generator": "Sketchfab-14.90.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1088664,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 384936,
+      "byteOffset": 1088664,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1154808,
+      "byteOffset": 1473600,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 2628408,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "images": [
+    {
+      "uri": "textures/Tauranga_forrestry1_3Dmodel_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Tauranga_forrestry1_3Dmodel1_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "Tauranga_forrestry1_3Dmodel",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "Tauranga_forrestry1_3Dmodel1",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        -1.0,
+        2.2204460492503136e-16,
+        -1.6081226229577287e-16,
+        0.0,
+        -2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        -1.6081226229577292e-16,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3
+      ],
+      "name": "Tauranga_forrestry1_3Dmodel.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}

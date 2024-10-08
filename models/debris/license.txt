@@ -1,0 +1,11 @@
+Model Information:
+* title:	Debris flow – Arateka Stream, Tauranga
+* source:	https://sketchfab.com/3d-models/debris-flow-arateka-stream-tauranga-bfa26a17eea0470cbfe99be3b6d25753
+* author:	GNS Science (https://sketchfab.com/gns.science)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Debris flow – Arateka Stream, Tauranga" (https://sketchfab.com/3d-models/debris-flow-arateka-stream-tauranga-bfa26a17eea0470cbfe99be3b6d25753) by GNS Science (https://sketchfab.com/gns.science) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
